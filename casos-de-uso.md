@@ -18,6 +18,8 @@
   
 ## Diagrama de Casos de Uso
 
+![Diagrama de casos de uso](diagrama-generico.png)
+
 ## Descrição de casos de Uso
 
 ### CDU 01 
