@@ -15,7 +15,7 @@ Projeto Final do Curso Técnico Integrado de Desenvolvimento de Sistemas - Colé
 - [Manual do Usuário](manual.md)
 - [Requisitos](requisitos.md)
 - [Casos de Uso](casos-de-uso.md)
-- [Apresentação](apresentacao.pdf)
+- [Apresentação](apresentacão.pdf)
 
 **Diagrama de Classes**
 
