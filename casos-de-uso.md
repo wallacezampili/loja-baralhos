@@ -2,12 +2,14 @@
 
 ## Lista de casos de uso
 
- - [CDU 01](#CDU-01)Cadastro de usuários
- - [CDU 02](#CDU-02)Cadastro de produtos
- - [CDU 03](#CDU-03)Gerenciamento de usuários cadastrados
- - [CDU 04](#CDU-04)Login
- - [CDU 05](#CDU-05)Consulta de produtos
- - [CDU 06](#CDU-06)Gerenciamento de produtos
+ - [CDU 01](#CDU-01) Inclusão de usuários
+ - [CDU 02](#CDU-02) Inclusão de produtos
+ - [CDU 03](#CDU-03) Exclusão de usuários 
+ - [CDU 04](#CDU-04) Exclusão de produtos
+ - [CDU 05](#CDU-05) Alteração de produtos
+ - [CDU 06](#CDU-06) Alteração de usuários
+ - [CDU 07](#CDU-07) Consulta de produtos
+ - [CDU 08](#CDU-08) Consulta de usuários
 
 ## Atores
 
