@@ -2,17 +2,17 @@
 
 ## Lista de casos de uso
 
- Cadastro de usuários
- Cadastro de produtos
- Gerenciamento de usuários cadastrados
- Login
- Consulta de produtos
- Gerenciamento de produtos
+ - [CDU 01](#CDU-01)Cadastro de usuários
+ - [CDU 02](#CDU-02)Cadastro de produtos
+ - [CDU 03](#CDU-03)Gerenciamento de usuários cadastrados
+ - [CDU 04](#CDU-04)Login
+ - [CDU 05](#CDU-05)Consulta de produtos
+ - [CDU 06](#CDU-06)Gerenciamento de produtos
 
 ## Atores
 
-  Usuário;
-  Administrador
+- Usuário
+- Administrador
   
 ## Diagrama de Casos de Uso
 
